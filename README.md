@@ -1,2 +1,4 @@
 # Lyrical-GraphQL
-Starter project from a GraphQL course on Udemy.com
+
+Open source songwriting application using GraphQL
+# Lyrical-GraphQL
